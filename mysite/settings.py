@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-spa-pi_x7rfdgbedjf2waf1)tgqj-w@ir!heb0@46%8pi36^ip
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://macabre-fangs-16381.herokuapp.com','https://deploy-weather-application.herokuapp.com']
 
 
 # Application definition
